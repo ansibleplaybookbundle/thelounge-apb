@@ -7,6 +7,7 @@ metadata:
   displayName: The Lounge (APB)
   imageUrl: https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ac.png
   dependencies: ['docker.io/dymurray/lounge:latest']
+  providerDisplayName: "Red Hat, Inc."
 plans:
   - name: default
     description: This default plan deploys thelounge-apb
